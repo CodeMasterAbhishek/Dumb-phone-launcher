@@ -4,6 +4,13 @@ I was addicted to my phone and my screen time was incredibly high. I built this 
 
 DumbPhoneLauncher is a distraction-free, text-based Android launcher engineered to mitigate digital distraction. By abstracting away traditional icon grids, notification badges, and complex app drawers, the launcher provides an intentional, friction-based interface that promotes mindful device usage.
 
+## Installation / Download APK
+
+1. Go to the [GitHub Releases](https://github.com/CodeMasterAbhishek/Dumb-phone-launcher/releases/latest) page.
+2. Download the latest `.apk` file (e.g. `app-release.apk`) to your phone.
+3. Open the downloaded file to install it. *(Note: You may need to grant your browser permission to "Install unknown apps").*
+4. Press your phone's Home button and set **DumbPhoneLauncher** as your default Home app.
+
 ## Interface & Features
 
 <table>
